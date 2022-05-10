@@ -1,0 +1,24 @@
+
+
+  
+ .Card {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: #F5E845;
+    background-color: red;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: #F5E845;
+    background-color: blueviolet;  
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: #F5E845;
+    background-color: blue; 
+}

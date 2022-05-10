@@ -1,0 +1,11 @@
+@font-face{
+    font-family: "RobotoMono";
+src:url(https://www.1001freefonts.com/roboto-mono.font)
+}
+body{
+    display: flexbox;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    color: blanchedalmond;
+}
